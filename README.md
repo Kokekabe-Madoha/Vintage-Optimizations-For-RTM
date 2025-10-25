@@ -10,7 +10,7 @@ VoxelMap：VoxelMapFixesを入れる。https://www.curseforge.com/minecraft/mc-m
 
 Spark：Flareに変える。https://modrinth.com/mod/flare/versions  
 ## 注意事項
-・jarファイルは自動で置き換えられないので、導入前にOptiFine以外の既存の軽量化modやそれらの前提modを全て削除してください。  
+OptiFineは手動で入れてください。
 
 ・軽量化の記事にあるNothirium構成を元に、いくつかmodが追加されています。  
 https://madoha-4862.hatenablog.jp/entry/2024/09/11/231348  
