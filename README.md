@@ -19,7 +19,7 @@ https://madoha-4862.hatenablog.jp/entry/2024/09/11/231348
 ・「Config」フォルダを既存のConfigフォルダに上書きする。  
 ・既存の軽量化modやID拡張modを削除。
 ・FileDirectorをダウンロードし、modsに入れる。  
-https://modrinth.com/mod/filedirector/versions?g=1.7.10  
+https://modrinth.com/mod/filedirector/versions?g=1.12.2  
 ・起動するとmodのダウンロード画面が出てくるので、「NEXT」を押してダウンロード。  
 ・警告画面が出たら✕ボタンでMinecraftを終了。クラッシュしたらそのまま次へ。  
 ・FileDirectorはもう要らないので削除。  
