@@ -9,6 +9,8 @@
 VoxelMap：VoxelMapFixesを入れる。https://www.curseforge.com/minecraft/mc-mods/voxelmap-fixes  
 
 Spark：Flareに変える。https://modrinth.com/mod/flare/versions  
+
+FarPlaneTwo：Nothiriumと互換性が無い。  
 ## 注意事項
 OptiFineは手動で入れてください。
 
