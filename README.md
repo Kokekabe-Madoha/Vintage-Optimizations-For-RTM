@@ -1,8 +1,9 @@
 # Vintage-Optimizations-For-RTM
-・RealTrainMod 1.12.2と公式ランチャーに対応する軽量化modpack。
+・RealTrainMod 1.12.2と公式ランチャーに対応する軽量化modpack。  
 ・多数のModを簡単に導入することが出来ます。
 ## 推奨環境
-・Java 8.0.462+8（Eclipse Temurin）https://adoptium.net/temurin/releases?version=8&mode=filter&os=any&arch=any  
+・Java 8.0.462+8（Eclipse Temurin）  
+https://adoptium.net/temurin/releases?version=8&mode=filter&os=any&arch=any  
 ・Forge 14.23.5.2860  
 ・RTM 2.4.24-43
 ## 非互換性
@@ -12,14 +13,13 @@ Spark：Flareに変える。https://modrinth.com/mod/flare/versions
 
 FarPlaneTwo：Nothiriumと互換性が無い。  
 ## 注意事項
-OptiFineは手動で入れてください。
+・OptiFineは自分で入れてください。
 
-・軽量化の記事にあるNothirium構成を元に、いくつかmodが追加されています。  
-https://madoha-4862.hatenablog.jp/entry/2024/09/11/231348  
+・OptiFineの「パフォーマンスの設定」は全てオフが望ましいです。「チャンク読み込み方法」の変更も不要です。
 ## 導入方法
 ・ReleaseからZipをダウンロードして、解凍する。  
 ・「Config」フォルダを既存のConfigフォルダに上書きする。  
-・OptiFine以外の既存の軽量化modを前提modも含めて削除。MixinBooterを要求するmodは一旦抜く。  
+・OptiFine以外の既存の軽量化modを前提modも含めて削除。軽量化mod以外でMixinBooterを要求するmodは一旦抜く。  
 ・FileDirectorをダウンロードし、modsに入れる。  
 https://modrinth.com/mod/filedirector/versions?g=1.12.2  
 ・起動するとmodのダウンロード画面が出てくるので、「NEXT」を押してダウンロード。  
@@ -27,6 +27,8 @@ https://modrinth.com/mod/filedirector/versions?g=1.12.2
 ・FileDirectorはもう要らないので削除。一旦抜いたmodも入れる。  
 ・Minecraftを再起動。  
 ・導入完了。  
+
+・Configだけ使用し、modを自分でダウンロードするのも良い。
 ## Modリスト
 https://madoha-4862.hatenablog.jp/entry/2025/10/25/120306
 ## ライセンス
