@@ -35,7 +35,7 @@ https://modrinth.com/mod/filedirector/versions?g=1.12.2
 ・導入完了。  
 
 ・Configだけ使用し、modを自分でダウンロードするのも良い。
-## Modリスト
+## Modリスト、Config変更
 https://madoha-4862.hatenablog.jp/entry/2025/10/25/120306
 ## ライセンス
 LGPL3。ライセンスの全文はmodpackのZip内のreadme.txtにあります。
