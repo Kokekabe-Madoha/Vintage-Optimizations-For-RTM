@@ -12,6 +12,12 @@ VoxelMap：VoxelMapFixesを入れる。https://www.curseforge.com/minecraft/mc-m
 Spark：Flareに変える。https://modrinth.com/mod/flare/versions  
 
 FarPlaneTwo：Nothiriumと互換性が無い。  
+
+VanillaFix、TexFix：CensoredASM（LoliASM）が置き換える。
+
+FoamFix：VintageFixが置き換える。
+
+Phosphor、Hesperus：Alfheimが置き換える。
 ## 注意事項
 ・OptiFineは自分で入れてください。
 
