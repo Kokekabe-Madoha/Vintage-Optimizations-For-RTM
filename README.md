@@ -1,4 +1,4 @@
-# Vintage-Optimizations-For-RTM
+# Vintage-Optimizations-For-RTM（廃止）
 ・RealTrainMod 1.12.2と公式ランチャーに対応する軽量化modpack。  
 ・多数のModを簡単に導入することが出来ます。
 ## 推奨環境
